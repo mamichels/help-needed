@@ -1,0 +1,17 @@
+{
+  "name": "help-needed",
+  "version": "1.0.0",
+  "description": "A small tool that helps you find a solution.",
+  "main": "index.js",
+  "scripts": {
+    "init-autostart-win": "cp autostart_helpme_win.bat ~/AppData/Roaming/Microsoft/Windows/\"Start Menu\"/Programs/Startup",
+    "stop-autostart-win": "rm ~/AppData/Roaming/Microsoft/Windows/\"Start Menu\"/Programs/Startup/autostart_helpme_win.bat"
+  },
+  "author": "Marcel Michels",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "iohook": "^0.6.6",
+    "open": "^7.1.0"
+  }
+}

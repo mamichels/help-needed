@@ -1,0 +1,1 @@
+node ~/AppData/Roaming/npm/node_modules/help-wanted/index.js
