@@ -12,6 +12,6 @@ This tool lets you google stuff you don't know by pressing the shortcut `ctrl+sh
 ### Windows
 
 ```
-    cp ~/AppData/Roaming/npm/node_modules/help-wanted/autostart_helpme_win.bat ~/AppData/Roaming/Microsoft/Windows/\"Start Menu\"/Programs/Startup
+    cp ~/AppData/Roaming/npm/node_modules/help-needed/autostart_helpme_win.bat ~/AppData/Roaming/Microsoft/Windows/Start\ Menu/Programs/Startup
 ```
 

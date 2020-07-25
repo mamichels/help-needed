@@ -1,1 +1,1 @@
-node ~/AppData/Roaming/npm/node_modules/help-wanted/index.js
+node ~/AppData/Roaming/npm/node_modules/help-needed/index.js

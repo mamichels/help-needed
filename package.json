@@ -1,8 +1,14 @@
 {
   "name": "help-needed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small tool that helps you find a solution.",
   "main": "index.js",
+  "homepage": "https://github.com/mamichels/help-needed",
+  "keywords": [
+    "google",
+    "search",
+    "help"
+  ],
   "scripts": {
     "init-autostart-win": "cp autostart_helpme_win.bat ~/AppData/Roaming/Microsoft/Windows/\"Start Menu\"/Programs/Startup",
     "stop-autostart-win": "rm ~/AppData/Roaming/Microsoft/Windows/\"Start Menu\"/Programs/Startup/autostart_helpme_win.bat"
